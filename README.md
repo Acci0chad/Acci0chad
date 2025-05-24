@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-17-purple?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Age-17-purple?style=for-the-badge&logo=star&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Country-Pakistan-006600?style=for-the-badge&logo=pagelines&logoColor=white"/>
   <img src="https://img.shields.io/badge/Role-GD%20Pilot%20Aspirant-22223b?style=for-the-badge&logo=airplayaudio&logoColor=8F00FF"/>
 </p>
